@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shekeeb",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shekeeb/PortFolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shekeeb/PortFolio/issues"
+  },
+  "homepage": "https://github.com/Shekeeb/PortFolio#readme"
+}
